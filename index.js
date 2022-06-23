@@ -8,6 +8,9 @@
  */
 
 var i = require('./Elder/math/compiler.js');
-var input = "3*7+3^3";
 
-console.log(i.evaluate(input));
+while (true) {
+  var input = prompt("");
+
+  console.log(i.evaluate(input));
+}
