@@ -1,10 +1,8 @@
 /**
  * Created by NemesisX 2022 all rights reserved!
  * Elder is meant to act as a deep down way to 
- * find how evaluation functions work. You may not fork! Nu-uh! 
- * Bad stuff *MAY* happen...
- * PS:
- * I don't care about MIT!
+ * find how evaluation functions work.
+ * Bad stuff *MAY* happen if fork...
  */
 
 var i = require('./Elder/math/compiler.js');
